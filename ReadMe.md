@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Rameez
-### AI/ML Engineer · RAG Pipelines · NLP · LangChain · Python
+### AI/ML Engineer · RAG Pipelines · LLMs · NLP · LangChain · Python
 
-> *Startups don't fail because of lack of ideas — they fail because execution is slow.*
+> *Startups don't fail because of lack of ideas, they fail because execution is slow.*
 
 I'm an AI/ML Engineer helping startups and agencies **automate workflows**, **build AI-powered products**, and **ship faster**. Started as a full-stack developer, but quickly realized that AI + automation is where real leverage lives — turning data into decisions, and ideas into scalable products.
 
@@ -18,7 +18,7 @@ I work with founders in the 🇬🇧 UK, 🇦🇪 UAE, 🇺🇸 USA, and 🇦�
 - 🤝 Open to: **AI/ML collaborations, RAG systems, LLM integrations**
 - 🌱 Learning: **MLOps, Docker, advanced LLM fine-tuning**
 - 💡 Ask me about: **RAG pipelines, NLP, LangChain, AI agents, full-stack AI apps**
-- 🎯 Fun fact: I built an AI psychologist app — Therapy Link — with facial emotion recognition!
+- 🎯 Fun fact: I built an AI psychologist app: Therapy Link, with facial emotion recognition!
 - 📫 Reach me: **rameezz.aslam@gmail.com**
 
 ---
@@ -78,7 +78,7 @@ I work with founders in the 🇬🇧 UK, 🇦🇪 UAE, 🇺🇸 USA, and 🇦�
 ## 📜 Certifications
 
 - 🏅 HUAWEI Cloud Developer Certification (HCCDA-AI)
-- 🐍 Python for Everybody — Coursera
+- 🐍 Python for Everybody: Coursera
 - 🔐 Introduction to Cybersecurity & Ethical Hacking Basics
 - 🤖 Natural Language Processing with Transformers
 - 🧠 Deep Learning Specialization
